@@ -1,0 +1,17 @@
+Dockerfile
+.dockerignore
+.yarn
+npm-debug.log
+README.md
+.next
+.git
+.vscode
+deploy
+.editorconfig
+.eslintrc.json
+.gitlab-ci.yml
+.prettierrc.yml
+.prettierignore
+docker-compose.yml
+cypress
+node_modules
